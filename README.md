@@ -2,7 +2,7 @@
 
 OneThink 基于腾讯信鸽推送插件
 
-Features:
+### Features
 
 1.支持后台配置AccessId和SecretKey;
 
